@@ -5,3 +5,4 @@ Sphinx==1.8.4
 commonmark==0.8.1
 recommonmark==0.5.0
 mrkd==0.1.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
