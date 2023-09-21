@@ -1,7 +1,8 @@
 sphinx-rtd-theme==0.4.2
 sphinxcontrib-websupport==1.1.0
 m2r==0.2.1
-Sphinx==1.8.4
+Sphinx==3.3.0
 commonmark==0.8.1
 recommonmark==0.5.0
 mrkd==0.1.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
