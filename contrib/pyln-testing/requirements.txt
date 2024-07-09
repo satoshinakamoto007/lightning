@@ -4,3 +4,4 @@ cheroot==8.2.1
 ephemeral-port-reserve==1.1.1
 python-bitcoinlib==0.10.2
 psycopg2-binary==2.8.4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
